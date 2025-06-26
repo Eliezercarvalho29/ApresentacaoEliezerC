@@ -1,0 +1,19 @@
+
+body{background-color:rgb(168, 205, 152)}
+
+
+h1.supertitulo{text-align:center;color:rgb(26, 38, 89); font-size: 30px;}
+
+p{font-size:xx-large; text-align: justify;}
+
+ul li{ padding:10px; font-size:20px;}
+
+img{height: 500; border-radius: 10px;}
+
+table img {padding:2px; max-width: 3000;
+    width:auto;height:auto;}
+
+
+a:hover {color:rgb(247, 3, 3)}
+
+#botao{font-size: 23;}
